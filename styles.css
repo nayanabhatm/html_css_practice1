@@ -1,0 +1,216 @@
+body{
+    background-color: #325288;
+    text-align: center;
+}
+
+.petal1{
+    width: 100px;
+    height: 100px;
+    background-color: #EF8EC1;
+    margin: 0 auto;
+    border-radius: 25px;
+}
+
+.petal2{
+    width: 100px;
+    height: 100px;
+    background-color: #F19DCA;
+    position: absolute;
+    right: 43%;
+    top: 3%;
+    border-radius: 25px;
+}
+
+.petal3{
+    width: 100px;
+    height: 100px;
+    background-color: #EF8EC1;
+    position: absolute;
+    right: 40%;
+    top: 6%;
+    border-radius: 25px;
+}
+
+.petal4{
+    width: 100px;
+    height: 100px;
+    background-color: #F19DCA;
+    position: absolute;
+    right: 37%;
+    top: 9%;
+    border-radius: 25px;
+}
+
+.petal5{
+    width: 100px;
+    height: 100px;
+    background-color: #EF8EC1;
+    position: absolute;
+    right: 40%;
+    top: 12%;
+    border-radius: 25px;
+}
+
+.petal6{
+    width: 100px;
+    height: 100px;
+    background-color: #F19DCA;
+    position: absolute;
+    right: 43%;
+    top: 15%;
+    border-radius: 25px;
+}
+
+.petal7{
+    width: 100px;
+    height: 100px;
+    background-color: #EF8EC1;
+    position: absolute;
+    right: 47%;
+    top: 18%;
+    border-radius: 25px;
+}
+
+.petal8{
+    width: 100px;
+    height: 100px;
+    background-color: #F19DCA;
+    position: absolute;
+    right: 50%;
+    top: 15%;
+    border-radius: 25px;
+}
+
+.petal9{
+    width: 100px;
+    height: 100px;
+    background-color: #EF8EC1;
+    position: absolute;
+    right: 53%;
+    top: 12%;
+    border-radius: 25px;
+}
+
+.petal10{
+    width: 100px;
+    height: 100px;
+    background-color: #F19DCA;
+    position: absolute;
+    right: 56%;
+    top: 9%;
+    border-radius: 25px;
+}
+
+.petal11{
+    width: 100px;
+    height: 100px;
+    background-color: #EF8EC1;
+    position: absolute;
+    right: 53%;
+    top: 6%;
+    border-radius: 25px;
+}
+.petal12{
+    width: 100px;
+    height: 100px;
+    background-color: #F19DCA;
+    position: absolute;
+    right: 50%;
+    top: 3%;
+    border-radius: 25px;
+}
+
+.pistil{
+    background-color: #F7D801;
+    width: 200px;
+    height: 100px;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+
+.stem{
+    height: 700px;
+    width: 0.5%;
+    margin: 0 auto;
+    background-color: #62B414;
+}
+
+.left-leaf1{
+    width: 100px;
+    height: 100px;
+    background-color:#62B414;
+    position: absolute;
+    right: 50%;
+    top: 45%;
+    border-radius: 25px;
+}
+
+.left-leaf2{
+    width: 100px;
+    height: 100px;
+    background-color:#62B414;
+    position: absolute;
+    right: 53%;
+    top: 42%;
+    border-radius: 25px;
+}
+
+.left-leaf3{
+    width: 100px;
+    height: 100px;
+    background-color:#62B414;
+    position: absolute;
+    right: 56%;
+    top: 39%;
+    border-radius: 25px;
+}
+
+.left-leaf4{
+    width: 100px;
+    height: 100px;
+    background-color:#62B414;
+    position: absolute;
+    right: 59%;
+    top: 36%;
+    border-radius: 25px;
+}
+
+.right-leaf1{
+    width: 100px;
+    height: 100px;
+    background-color:#62B414;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    border-radius: 25px;
+}
+
+.right-leaf2{
+    width: 100px;
+    height: 100px;
+    background-color:#62B414;
+    position: absolute;
+    left: 53%;
+    top: 57%;
+    border-radius: 25px;
+}
+
+.right-leaf3{
+    width: 100px;
+    height: 100px;
+    background-color:#62B414;
+    position: absolute;
+    left: 56%;
+    top: 54%;
+    border-radius: 25px;
+}
+
+.right-leaf4{
+    width: 100px;
+    height: 100px;
+    background-color:#62B414;
+    position: absolute;
+    left: 59%;
+    top: 51%;
+    border-radius: 25px;
+}
